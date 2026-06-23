@@ -5,12 +5,7 @@
 
 ---
 
-### 🧭 從這裡開始 · Start here
-
-#### → [**claude-skills**](https://github.com/kau10082/claude-skills) — 我的 skills / 工具集合入口 · A directory of all my Claude skills & tools
-
-所有專案的統一導覽都在那裡。以下是幾個重點 ↓
-The full index lives there. A few highlights ↓
+### 🧭 我的 Claude skills & 工具 · My Claude skills & tools
 
 | Repo | 說明 · About |
 |------|------|
