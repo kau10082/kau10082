@@ -1,6 +1,6 @@
 ### 嗨，我是 Kao 👋
 
-**不務正業的胸腔內科醫師。** 白天看病，其餘時間都在折騰各種 Claude skill 與自動化——從醫學資訊到天馬行空的點子，只要覺得有趣就想動手做做看。
+**不務正業的胸腔內科醫師。** 白天看病，其餘時間都在玩各種 Claude skill 與自動化——從醫學資訊到天馬行空的點子，只要覺得有趣就想動手做做看。
 *A pulmonology / internal-medicine physician who can't quite stay in his lane — off the clock, tinkering with all sorts of Claude skills and automations, from medical-informatics tools to whatever wild idea sounds fun to try.*
 
 ---
