@@ -7,8 +7,6 @@
 
 ### 🧭 我的 Claude skills & 工具 · My Claude skills & tools
 
-<sub>每組由新到舊排列。狀態預設為 🟢 穩定運行；僅在 🟡 開發中／🔵 規劃中時額外標示。 · Newest first within each group. Assume 🟢 stable unless a 🟡 / 🔵 badge says otherwise.</sub>
-
 #### 🩺 醫學文獻・簡報 · Medical literature & slides
 
 - 🔎 **[slide-verify](https://github.com/kau10082/slide-verify)** 🆕<br>
@@ -30,8 +28,6 @@
 - 🩺 **[Pubmed_Bot](https://github.com/kau10082/Pubmed_Bot)**<br>
   A daily PubMed literature-alert and monitoring bot: AI paper summaries delivered to your inbox, Zotero, and Obsidian. A free, self-hosted alternative to PubMed email alerts / RSS.<br>
   每天自動追蹤 PubMed 新論文、用 AI 產生中文摘要，一次送進 Email、Zotero 與 Obsidian——PubMed Email Alert／RSS 的免費自架替代方案。
-
-<sub>🔗 簡報工作流：`.pptx` →〔📑 PPT-to-MD〕→ 文字 →〔🔎 slide-verify〕→ 查證・重排。 · Deck workflow: .pptx →〔PPT-to-MD〕→ text →〔slide-verify〕→ verify & reorder.</sub>
 
 #### 🧠 生產力・記憶 · Productivity & memory
 
