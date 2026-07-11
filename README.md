@@ -55,4 +55,4 @@
   A Taiwan-flavored, single-player ER night-shift sim: survive 19:00 to 07:00, where what really breaks you is insurance clawbacks, entitled complainers, politicians, VIP bosses, no free beds, and families ready to sue — doing the right thing goes unrewarded. Pure front-end, zero dependencies, [open it in a browser and play](https://kau10082.github.io/Game_ER_Night/).<br>
   台灣特供版的單人急診夜班模擬遊戲：19:00 撐到 07:00，真正弄垮你的是核刪、鯛民、議員、長官 VIP、沒病房和告你的家屬——做對的事不會被獎勵。純前端、零相依、開瀏覽器即玩。
 
-<sub>🆕 最新加入 · Recently added　｜　狀態 Status：🟢 穩定運行 Stable · 🟡 開發中 In progress · 🔵 規劃中 Planned</sub>
+<sub>🆕 最新加入 · Recently added</sub>
