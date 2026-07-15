@@ -9,6 +9,10 @@
 
 #### 🩺 醫學文獻・簡報 · Medical literature & slides
 
+- 📚 **[epub-extract](https://github.com/kau10082/epub-extract)** 🆕<br>
+  A Claude skill for faithful, auditable whole-book extraction into knowledge-base-ready Markdown — not a summary. A standard-library verifier fails loudly the moment an image or chapter is silently dropped.<br>
+  把整本電子書忠實萃取成知識庫可用的 Markdown 的 Claude 技能——不是摘要。內建純標準庫的機械對帳，一旦吞圖、掉章就大聲報錯，絕不安靜出錯。
+
 - 🔎 **[slide-verify](https://github.com/kau10082/slide-verify)**<br>
   A Claude Skill that fact-checks medical slide decks against PubMed — verify → correct → reorder → split → plain-language rewrite. It catches real papers *cited wrongly*, not just fabricated ones, tracing every number back to the source to confirm the paper actually said it.<br>
   醫學簡報文獻查核一條龍 Claude Skill：驗證→勘誤→重排→拆頁→白話改寫。不只查文獻存不存在，更追進原文核對「這篇真文獻到底有沒有說過這個數字」，專抓真文獻被引錯的隱蔽失真。
@@ -30,10 +34,6 @@
   每天自動追蹤 PubMed 新論文、用 AI 產生中文摘要，一次送進 Email、Zotero 與 Obsidian——PubMed Email Alert／RSS 的免費自架替代方案。
 
 #### 🧠 生產力・記憶 · Productivity & memory
-
-- 📚 **[epub-extract](https://github.com/kau10082/epub-extract)** 🆕<br>
-  A Claude skill for faithful, auditable whole-book extraction into knowledge-base-ready Markdown — not a summary. A standard-library verifier fails loudly the moment an image or chapter is silently dropped.<br>
-  把整本電子書忠實萃取成知識庫可用的 Markdown 的 Claude 技能——不是摘要。內建純標準庫的機械對帳，一旦吞圖、掉章就大聲報錯，絕不安靜出錯。
 
 - 📝 **[Note_Claude](https://github.com/kau10082/Note_Claude)**<br>
   A Claude Code skill that archives your Claude AI chats word-for-word into Obsidian / Google Drive — one command, saved by topic, no summaries or rewriting.<br>
