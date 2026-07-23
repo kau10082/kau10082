@@ -9,7 +9,11 @@
 
 #### 🩺 醫學文獻・簡報 · Medical literature & slides
 
-- 📚 **[epub-extract](https://github.com/kau10082/epub-extract)** 🆕<br>
+- 🔤 **[pdf-text-recover](https://github.com/kau10082/pdf-text-recover)** 🆕<br>
+  A deterministic repair skill for garbled PDF text layers — it rebuilds code-to-Unicode maps from the font's own internal data instead of guessing with OCR, keeping OCR as a verifier rather than the judge.<br>
+  PDF 文字層亂碼的確定性修復 Skill：從字型內部線索重建對照表，而不是靠 OCR 猜；OCR 只當驗證者、不當裁判。
+
+- 📚 **[epub-extract](https://github.com/kau10082/epub-extract)**<br>
   A Claude skill for faithful, auditable whole-book extraction into knowledge-base-ready Markdown — not a summary. A standard-library verifier fails loudly the moment an image or chapter is silently dropped.<br>
   把整本電子書忠實萃取成知識庫可用的 Markdown 的 Claude 技能——不是摘要。內建純標準庫的機械對帳，一旦吞圖、掉章就大聲報錯，絕不安靜出錯。
 
