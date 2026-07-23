@@ -10,8 +10,8 @@
 #### 🩺 醫學文獻・簡報 · Medical literature & slides
 
 - 🔤 **[pdf-text-recover](https://github.com/kau10082/pdf-text-recover)** 🆕<br>
-  A deterministic repair skill for garbled PDF text layers — it rebuilds code-to-Unicode maps from the font's own internal data instead of guessing with OCR, keeping OCR as a verifier rather than the judge.<br>
-  PDF 文字層亂碼的確定性修復 Skill：從字型內部線索重建對照表，而不是靠 OCR 猜；OCR 只當驗證者、不當裁判。
+  A pre-repair station for PDF text-extraction pipelines (e.g. PDF→Markdown): when extraction comes out garbled, it rebuilds the text layer deterministically from the font's own data — OCR only verifies, it never decides.<br>
+  PDF 文字萃取管線（如 PDF→Markdown）的前置修復站：抽出亂碼時，從字型線索確定性修復文字層，OCR 只當驗證者。
 
 - 📚 **[epub-extract](https://github.com/kau10082/epub-extract)**<br>
   A Claude skill for faithful, auditable whole-book extraction into knowledge-base-ready Markdown — not a summary. A standard-library verifier fails loudly the moment an image or chapter is silently dropped.<br>
