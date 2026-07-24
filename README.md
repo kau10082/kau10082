@@ -12,7 +12,7 @@
 
 #### 📥 保真萃取・修復 · Faithful extraction & repair
 
-- 🔤 **[pdf-text-recover](https://github.com/kau10082/pdf-text-recover)** 🆕<br>
+- 🔤 **[pdf-text-recover](https://github.com/kau10082/pdf-text-recover)**<br>
   A pre-repair station for PDF text-extraction pipelines (e.g. PDF→Markdown): when extraction comes out garbled, it rebuilds the text layer deterministically from the font's own data — OCR only verifies, it never decides.<br>
   PDF 文字萃取管線（如 PDF→Markdown）的前置修復站：抽出亂碼時，從字型線索確定性修復文字層，OCR 只當驗證者。
 
@@ -63,6 +63,12 @@
 - 💳 **[Card_Radar](https://github.com/kau10082/Card_Radar)**<br>
   A Claude Skill that tells you which credit card to swipe before you pay — ranks by real cashback after monthly caps, counts only the cards and wallets you actually use, knows Taiwan's local exclusion rules, and keeps all data on your own machine.<br>
   付款前問一句就知道刷哪張卡最划算的 Claude Skill：只看你手上的卡、算扣掉上限後的實拿回饋、懂台灣在地排除規則、個資全留本機。
+
+#### 🛠️ 開發・協作 · Dev workflow
+
+- 🤝 **[agents-handoff](https://github.com/kau10082/agents-handoff)** 🆕<br>
+  A dual-AI code-review workflow you install with one command: one AI writes the code, another reviews it, handing off through a plain-text file. No API keys, no CI — built for non-engineers.<br>
+  一鍵安裝的雙 AI 協作審查工作流：一個 AI 寫程式、另一個挑錯，透過純文字檔交接，免金鑰、免 CI，專為非工程師設計。
 
 #### 🎮 玩票 · Fun & misc
 
