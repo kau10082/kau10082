@@ -30,7 +30,7 @@
 
 #### 🛡️ 文獻查證・實證 · Verification & evidence
 
-- 🔎 **[slide-verify](https://github.com/kau10082/slide-verify)**<br>
+- 🔎 **[slide-verify](https://github.com/kau10082/slide-verify)** 🔄<br>
   A Claude Skill that fact-checks medical slide decks against PubMed — verify → correct → reorder → split → plain-language rewrite. It catches real papers *cited wrongly*, not just fabricated ones, tracing every number back to the source to confirm the paper actually said it.<br>
   醫學簡報文獻查核一條龍 Claude Skill：驗證→勘誤→重排→拆頁→白話改寫。不只查文獻存不存在，更追進原文核對「這篇真文獻到底有沒有說過這個數字」，專抓真文獻被引錯的隱蔽失真。
 
@@ -76,4 +76,4 @@
   A Taiwan-flavored, single-player ER night-shift sim: survive 19:00 to 07:00, where what really breaks you is insurance clawbacks, entitled complainers, politicians, VIP bosses, no free beds, and families ready to sue — doing the right thing goes unrewarded. Pure front-end, zero dependencies, [open it in a browser and play](https://kau10082.github.io/Game_ER_Night/).<br>
   台灣特供版的單人急診夜班模擬遊戲：19:00 撐到 07:00，真正弄垮你的是核刪、鯛民、議員、長官 VIP、沒病房和告你的家屬——做對的事不會被獎勵。純前端、零相依、開瀏覽器即玩。
 
-<sub>🆕 最新加入 · Recently added</sub>
+<sub>🆕 最新加入 · Recently added　｜　🔄 最新更新 · Recently updated</sub>
